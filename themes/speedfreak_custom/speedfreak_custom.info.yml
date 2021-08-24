@@ -1,0 +1,6 @@
+name: Speedfreak Custom
+type: theme
+description: 'A custom theme made just for my own site.'
+package: Custom
+version: 0.0.1
+base theme: classy
